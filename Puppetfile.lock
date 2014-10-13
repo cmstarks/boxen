@@ -64,6 +64,11 @@ GITHUBTARBALL
     pkgconfig (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-postgresapp
+  specs:
+    postgresapp (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-postgresql
   specs:
     postgresql (3.0.0)
@@ -119,6 +124,7 @@ DEPENDENCIES
   openssl (= 1.0.0)
   phantomjs (= 2.3.0)
   pkgconfig (= 1.0.0)
+  postgresapp (= 1.0.0)
   postgresql (= 3.0.0)
   repository (= 2.3.0)
   ruby (= 8.1.4)

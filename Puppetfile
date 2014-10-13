@@ -62,4 +62,4 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 
 github "postgresql", "3.0.0"
-
+github "postgresapp", "1.0.0"
