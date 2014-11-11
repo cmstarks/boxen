@@ -76,6 +76,7 @@ node default {
   ruby::version { '2.1.2': }
   
   include dash  
+  include postgresql
 
   # common, useful packages
   package {

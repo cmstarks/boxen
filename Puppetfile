@@ -62,4 +62,4 @@ github "dash",        "1.0.0"
 # https://github.com/boxen.
 
 github "postgresql", "3.0.0"
-github "postgresapp", "1.0.0"
+github "sysctl", "1.0.1"
